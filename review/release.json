@@ -1,7 +1,7 @@
 {
   "release": "og1-participants-2026-10-07",
   "kind": "review",
-  "built_at": "2026-10-06T23:54:51.457Z",
+  "built_at": "2026-10-07T00:02:25.133Z",
   "component_sha256": "ddf82e8d362601aa45e44afbbee1e60423feb899e74017b543686bd30e701a69",
   "collector": null,
   "experiment": "zendo-og1-1.4.0",
