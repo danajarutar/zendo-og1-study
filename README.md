@@ -1,7 +1,7 @@
-# Zendo OG1 — synthetic test version
+# Zendo OG1
 
-Slovene adult and child Zendo game. This deployment is for fictional test data only and is not yet approved for real participants.
+Slovene adult and child game. Participants use private researcher-issued individual links to `/odrasli/` or `/otroci/`.
 
-The game uses individual researcher-issued links. The adult entry is `/odrasli/`; the child entry is `/otroci/`.
+`/review/` provides repeatable local-only review, with no response submission. `/test/` is a separate fictional-data collection environment.
 
-This repository contains only compiled public game assets. Participant links, response records, server credentials and encryption keys must never be committed here. The separate Cloudflare synthetic receiver handles checkpoints; encrypted GitHub archiving is still being configured.
+This repository contains compiled public game assets only. Responses are received over HTTPS by a separate Cloudflare service and archived encrypted in a private repository. Individual link lists, records and credentials must never be published here.
