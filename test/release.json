@@ -1,7 +1,7 @@
 {
   "release": "og1-participants-2026-10-07",
   "kind": "synthetic",
-  "built_at": "2026-10-06T23:54:52.632Z",
+  "built_at": "2026-10-07T00:07:38.133Z",
   "component_sha256": "ddf82e8d362601aa45e44afbbee1e60423feb899e74017b543686bd30e701a69",
   "collector": "https://zendo-og1-collector-synthetic.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.5.0",
