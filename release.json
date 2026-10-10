@@ -1,8 +1,8 @@
 {
-  "release": "og1-wording-2026-10-09",
+  "release": "og1-exploration-2026-10-10",
   "kind": "production",
-  "built_at": "2026-10-09T20:47:39.699Z",
-  "component_sha256": "0f84eb69bb889a2a656cba04c54af4e949bc38074f7596b5816656fa9f06ee09",
+  "built_at": "2026-10-10T00:47:15.058Z",
+  "component_sha256": "aa22f7121e5b66caa99f72dc88bbe792dd3680420aa28498b980157a3e7f12d5",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.5.0",
   "schema": "2.5.0"
