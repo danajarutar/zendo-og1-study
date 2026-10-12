@@ -1,7 +1,7 @@
 {
-  "release": "og1-report-order-instruction-2026-10-12",
+  "release": "og1-order-box-spacing-2026-10-12",
   "kind": "production",
-  "built_at": "2026-10-12T02:03:37.674Z",
+  "built_at": "2026-10-12T02:12:46.617Z",
   "component_sha256": "a515f5f13fe9fc0c601e63172e858ebf9c495a2b7f625202a847c8a6d7008491",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.5.0",
