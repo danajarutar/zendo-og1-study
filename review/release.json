@@ -1,8 +1,8 @@
 {
-  "release": "og1-operation-intro-2026-10-12",
+  "release": "og1-report-order-instruction-2026-10-12",
   "kind": "review",
-  "built_at": "2026-10-12T01:17:03.540Z",
-  "component_sha256": "925f557505425c9ae9b766a86ce344b983ac8ddac2f1fdd5566a898eef0b4e64",
+  "built_at": "2026-10-12T02:03:45.731Z",
+  "component_sha256": "a515f5f13fe9fc0c601e63172e858ebf9c495a2b7f625202a847c8a6d7008491",
   "collector": null,
   "experiment": "zendo-og1-1.4.0",
   "schema": "2.4.0"
