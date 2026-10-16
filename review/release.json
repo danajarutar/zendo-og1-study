@@ -1,9 +1,9 @@
 {
-  "release": "og1-no-large-2026-10-13",
+  "release": "og1-wording-2026-10-16",
   "kind": "review",
   "ruleset": "2026-10-13-og1-no-large",
-  "built_at": "2026-10-13T13:11:20.050Z",
-  "component_sha256": "c264e96fa5bde2217b17005ba89c725433cfab0ab483ff8a70852d4e359acb26",
+  "built_at": "2026-10-16T08:33:50.838Z",
+  "component_sha256": "b5cdcd725e6d9fa757d80a08923c0eb07cd70291f78a717fcac0c5c6d4ead83b",
   "collector": null,
   "experiment": "zendo-og1-1.4.0",
   "schema": "2.4.0"
