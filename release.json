@@ -1,9 +1,9 @@
 {
-  "release": "og1-feedback-3s-2026-10-16",
+  "release": "og1-practice-source-cues-2026-10-23",
   "kind": "production",
   "ruleset": "2026-10-13-og1-no-large",
-  "built_at": "2026-10-16T09:29:33.299Z",
-  "component_sha256": "b5cdcd725e6d9fa757d80a08923c0eb07cd70291f78a717fcac0c5c6d4ead83b",
+  "built_at": "2026-10-23T09:02:11.710Z",
+  "component_sha256": "4dbc1e6c201e37de6fcb722d4d230fad70bdd457ca717df80bb083b30db6d69b",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.5.0",
   "schema": "2.5.0"
