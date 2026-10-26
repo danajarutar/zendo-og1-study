@@ -1,10 +1,10 @@
 {
-  "release": "og1-practice-wording-colour-2026-10-23",
+  "release": "og1-pilot-walkthrough-2026-10-26",
   "kind": "review",
-  "ruleset": "2026-10-13-og1-no-large",
-  "built_at": "2026-10-23T13:50:28.276Z",
-  "component_sha256": "4dbc1e6c201e37de6fcb722d4d230fad70bdd457ca717df80bb083b30db6d69b",
+  "ruleset": "2026-10-24-og1-uniform-shape",
+  "built_at": "2026-10-26T20:31:27.420Z",
+  "component_sha256": "e5969db7394e96b1bf0578ebdd51f4692818036641f587b139567900fdedb39d",
   "collector": null,
-  "experiment": "zendo-og1-1.4.0",
-  "schema": "2.4.0"
+  "experiment": "zendo-og1-preview-1.6.0",
+  "schema": "2.7.0"
 }
