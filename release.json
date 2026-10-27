@@ -1,9 +1,9 @@
 {
-  "release": "og1-comparison-wording-2026-10-27",
+  "release": "og1-instruction-order-2026-10-27",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-27T18:47:07.775Z",
-  "component_sha256": "e5969db7394e96b1bf0578ebdd51f4692818036641f587b139567900fdedb39d",
+  "built_at": "2026-10-27T18:58:42.446Z",
+  "component_sha256": "1599b1c5103e738d48aefbe442bb327979e32cff8cf0cb1b8aadc01653e45aae",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.6.0",
   "schema": "2.7.0"
