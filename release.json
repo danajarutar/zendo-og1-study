@@ -1,9 +1,9 @@
 {
-  "release": "og1-reuse-placement-2026-10-28",
+  "release": "og1-report-emphasis-2026-10-28",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-28T19:04:43.403Z",
-  "component_sha256": "6ffce7cddf8f4713e6288e6fd31f0eabc91e6446150bfe8d2b612e4a2a7855e9",
+  "built_at": "2026-10-28T19:22:03.818Z",
+  "component_sha256": "389f491bfca90aa7dd4656c60f1e5090831cc427233f67f348375e58801bb435",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.6.0",
   "schema": "2.7.0"
