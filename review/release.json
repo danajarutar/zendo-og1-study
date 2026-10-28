@@ -1,9 +1,9 @@
 {
-  "release": "og1-control-navigation-2026-10-28",
+  "release": "og1-intro-examples-2026-10-28",
   "kind": "review",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-28T14:11:41.685Z",
-  "component_sha256": "6ba0f8e5b77f1f63ee5b33afe8094e183ddc50a9c6aab96535080edac9f37b64",
+  "built_at": "2026-10-28T18:48:56.140Z",
+  "component_sha256": "64ebd089728c657372b7440c90888f8270e4e9a7b4867cf0cd8cb046b9f1250c",
   "collector": null,
   "experiment": "zendo-og1-preview-1.6.0",
   "schema": "2.7.0"
