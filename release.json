@@ -1,9 +1,9 @@
 {
-  "release": "og1-scene-guidance-2026-10-29",
+  "release": "og1-demo-history-link-2026-10-29",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-29T10:30:14.384Z",
-  "component_sha256": "bf9d52a0bc40952b53bdbc12fad92d256647d8a5bab5da828bfa7e4f9d736264",
+  "built_at": "2026-10-29T13:21:10.212Z",
+  "component_sha256": "fe3814ca92cd305cc623c713c9d3ca08b6ce9a147cacd45b952e0bbd5d96a503",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.6.0",
   "schema": "2.7.0"
