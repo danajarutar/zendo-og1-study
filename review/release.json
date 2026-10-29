@@ -1,9 +1,9 @@
 {
-  "release": "og1-final-report-order-2026-10-28",
+  "release": "og1-scene-guidance-2026-10-29",
   "kind": "review",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-28T19:42:02.518Z",
-  "component_sha256": "1db28af03686ede199b3e4eaceae22bfb88870884ed0c54eb2509725078f66d5",
+  "built_at": "2026-10-29T10:30:14.483Z",
+  "component_sha256": "bf9d52a0bc40952b53bdbc12fad92d256647d8a5bab5da828bfa7e4f9d736264",
   "collector": null,
   "experiment": "zendo-og1-preview-1.6.0",
   "schema": "2.7.0"
