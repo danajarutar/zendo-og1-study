@@ -2,7 +2,7 @@
   "release": "og1-generalisation-rule-feedback-2026-10-30",
   "kind": "review",
   "ruleset": "2026-10-30-og1-child-generalisation",
-  "built_at": "2026-10-30T10:09:28.448Z",
+  "built_at": "2026-10-30T10:14:25.938Z",
   "component_sha256": "1e223f1546c3d752f14a21557fc8ac541bcbe2cce2e0d94ebdbde1ee7cf5e977",
   "collector": null,
   "experiment": "zendo-og1-generalisation-preview-1.1.0",
