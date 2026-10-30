@@ -1,10 +1,10 @@
 {
-  "release": "og1-inline-history-link-2026-10-29",
+  "release": "og1-seven-question-copy-2026-10-30",
   "kind": "review",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-29T13:51:55.117Z",
-  "component_sha256": "fe3814ca92cd305cc623c713c9d3ca08b6ce9a147cacd45b952e0bbd5d96a503",
+  "built_at": "2026-10-30T10:58:48.456Z",
+  "component_sha256": "600256b39188d82a54dfe2c5e61e216ac85bda9c1baabe828b27247c4c61fa93",
   "collector": null,
-  "experiment": "zendo-og1-preview-1.6.0",
-  "schema": "2.7.0"
+  "experiment": "zendo-og1-preview-1.7.0",
+  "schema": "2.9.0"
 }
