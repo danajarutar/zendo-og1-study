@@ -1,10 +1,12 @@
 {
-  "release": "og1-child-generalisation-2026-10-30",
+  "release": "og1-generalisation-rule-feedback-2026-10-30",
   "kind": "review",
   "ruleset": "2026-10-30-og1-child-generalisation",
-  "built_at": "2026-10-30T09:29:40.539Z",
-  "component_sha256": "c4058dec99afcf9f67d0ceb1daa3e2ab48bcd659ac1914ae66dc49b7beb15102",
+  "built_at": "2026-10-30T10:09:28.448Z",
+  "component_sha256": "1e223f1546c3d752f14a21557fc8ac541bcbe2cce2e0d94ebdbde1ee7cf5e977",
   "collector": null,
-  "experiment": "zendo-og1-child-generalisation-preview-1.0.0",
-  "schema": "2.8.0"
+  "experiment": "zendo-og1-generalisation-preview-1.1.0",
+  "schema": "2.8.0",
+  "rule_feedback": "after_final_guess_per_block",
+  "points_feedback": "after_five_blocks"
 }
