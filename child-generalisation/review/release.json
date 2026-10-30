@@ -1,0 +1,10 @@
+{
+  "release": "og1-child-generalisation-2026-10-30",
+  "kind": "review",
+  "ruleset": "2026-10-30-og1-child-generalisation",
+  "built_at": "2026-10-30T09:17:14.512Z",
+  "component_sha256": "9d1e818d8bf9cd17eeac01a674c3ab6b15d861ef5965697dfe1e4ae86330d0fe",
+  "collector": null,
+  "experiment": "zendo-og1-child-generalisation-preview-1.0.0",
+  "schema": "2.8.0"
+}
