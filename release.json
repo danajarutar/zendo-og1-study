@@ -1,10 +1,10 @@
 {
-  "release": "og1-inline-history-link-2026-10-29",
+  "release": "og1-seven-question-copy-2026-10-30",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-29T13:51:55.162Z",
-  "component_sha256": "fe3814ca92cd305cc623c713c9d3ca08b6ce9a147cacd45b952e0bbd5d96a503",
+  "built_at": "2026-10-30T11:05:02.871Z",
+  "component_sha256": "48c38649316bbed4f47b531a3c8051f19dd94fa4892fd628987e66ddb4e6cceb",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
-  "experiment": "zendo-og1-1.6.0",
-  "schema": "2.7.0"
+  "experiment": "zendo-og1-1.7.0",
+  "schema": "2.9.0"
 }
