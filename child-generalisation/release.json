@@ -1,0 +1,10 @@
+{
+  "release": "og1-child-generalisation-2026-10-30",
+  "kind": "production",
+  "ruleset": "2026-10-30-og1-child-generalisation",
+  "built_at": "2026-10-30T09:31:58.262Z",
+  "component_sha256": "c4058dec99afcf9f67d0ceb1daa3e2ab48bcd659ac1914ae66dc49b7beb15102",
+  "collector": "https://zendo-og1-child-generalisation-collector.rutar-danaja.workers.dev",
+  "experiment": "zendo-og1-child-generalisation-1.0.0",
+  "schema": "2.8.0"
+}
