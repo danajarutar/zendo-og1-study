@@ -1,9 +1,9 @@
 {
-  "release": "og1-final-rule-wording-2026-10-30",
+  "release": "og1-final-rule-scenes-2026-10-30",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-30T11:28:57.716Z",
-  "component_sha256": "66ba295aee46c79d9e472e816cee50700e79938fa5ce50d691ef35371f290245",
+  "built_at": "2026-10-30T11:33:22.505Z",
+  "component_sha256": "1ef633ca6817a2736b07633861c44353ee5b50ea0a076bdd23ea254d9beb345c",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.7.0",
   "schema": "2.9.0"
