@@ -1,9 +1,9 @@
 {
-  "release": "og1-final-rule-scenes-2026-10-30",
+  "release": "og1-fixed-add-panel-2026-11-01",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-10-30T11:33:22.505Z",
-  "component_sha256": "1ef633ca6817a2736b07633861c44353ee5b50ea0a076bdd23ea254d9beb345c",
+  "built_at": "2026-11-01T07:41:30.149Z",
+  "component_sha256": "b05838cc8c0c38ae40e91b7d60bb3517ebfe1771366ec3e38d7f4ea2b6d6a1ba",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.7.0",
   "schema": "2.9.0"
