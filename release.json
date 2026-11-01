@@ -2,8 +2,8 @@
   "release": "og1-fixed-demo-add-panel-2026-11-01",
   "kind": "production",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-11-01T08:23:04.471Z",
-  "component_sha256": "973ac0674f50a0e3cd2704a92b462e72b869b2b8954aafad85a9fbca8a91d0b5",
+  "built_at": "2026-11-01T08:25:44.434Z",
+  "component_sha256": "39ad5cb739d4e2cd043d6fd9ee7cfc34dfa4829ed3e3c013895805f0842dcf64",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.7.0",
   "schema": "2.9.0"
