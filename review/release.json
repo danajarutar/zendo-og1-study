@@ -1,9 +1,9 @@
 {
-  "release": "og1-fixed-demo-add-panel-2026-11-01",
+  "release": "og1-relations-copy-2026-11-04",
   "kind": "review",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-11-01T08:25:44.205Z",
-  "component_sha256": "39ad5cb739d4e2cd043d6fd9ee7cfc34dfa4829ed3e3c013895805f0842dcf64",
+  "built_at": "2026-11-04T09:10:01.700Z",
+  "component_sha256": "05f9344f78b3355fc97b375b7d8441ee54ba58b36a67e6616a4c4564292baeba",
   "collector": null,
   "experiment": "zendo-og1-preview-1.7.0",
   "schema": "2.9.0"
