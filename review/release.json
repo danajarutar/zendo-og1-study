@@ -2,7 +2,7 @@
   "release": "og1-relations-copy-2026-11-04",
   "kind": "review",
   "ruleset": "2026-10-24-og1-uniform-shape",
-  "built_at": "2026-11-04T09:10:01.700Z",
+  "built_at": "2026-11-04T09:20:55.273Z",
   "component_sha256": "05f9344f78b3355fc97b375b7d8441ee54ba58b36a67e6616a4c4564292baeba",
   "collector": null,
   "experiment": "zendo-og1-preview-1.7.0",
