@@ -1,9 +1,9 @@
 {
-  "release": "og1-green-count-quiz-2026-11-12",
+  "release": "og1-sizes-history-reveal-2026-11-14",
   "kind": "production",
   "ruleset": "2026-11-12-og1-green-count",
-  "built_at": "2026-11-12T17:08:42.464Z",
-  "component_sha256": "10180acd51ef1b38e8ca030943f3a5497c2c1f29ff4b481c507c3466b26628d3",
+  "built_at": "2026-11-14T09:23:27.474Z",
+  "component_sha256": "0e704a669811e670ee86886709bd788d46664eb565e74aa9018c15822b93faaf",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
   "experiment": "zendo-og1-1.7.0",
   "schema": "2.9.0"
