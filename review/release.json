@@ -2,8 +2,8 @@
   "release": "og1-main-operations-visibility-2026-11-15",
   "kind": "review",
   "ruleset": "2026-11-12-og1-green-count",
-  "built_at": "2026-11-16T08:55:26.345Z",
-  "component_sha256": "a7453617f4b9ccc64e1929f4330cc729862fa0ac19a143d02ade1fb38864abf3",
+  "built_at": "2026-11-16T09:01:40.621Z",
+  "component_sha256": "57a15ebbad67a8128f0674af8423231111130c78792dde67614ae58940372e8f",
   "collector": null,
   "experiment": "zendo-og1-preview-1.8.0",
   "schema": "2.10.0"
