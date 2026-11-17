@@ -1,0 +1,10 @@
+{
+  "release": "og1-main-study-2026-11-17",
+  "kind": "main-study",
+  "experiment": "zendo-og1-1.8.0",
+  "schema": "2.10.0",
+  "ruleset": "2026-11-12-og1-green-count",
+  "component_sha256": "7157af14859134d3601b67a253f1d69f5f4c3e3dbc624940924d6d97adaa46df",
+  "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
+  "built_at": "2026-11-17T10:51:27.553Z"
+}
