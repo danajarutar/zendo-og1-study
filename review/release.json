@@ -1,10 +1,10 @@
 {
-  "release": "og1-date-of-birth-2026-11-16",
+  "release": "og1-history-source-text-2026-11-17",
   "kind": "review",
   "ruleset": "2026-11-12-og1-green-count",
   "experiment": "zendo-og1-preview-1.8.0",
   "schema": "2.10.0",
   "collector": null,
-  "component_sha256": "13f119aeae96f74f56f72dc7eceeae7348d7d6d9d981d75022ae52eabf8600d5",
-  "built_at": "2026-11-16T21:24:50.421Z"
+  "component_sha256": "7157af14859134d3601b67a253f1d69f5f4c3e3dbc624940924d6d97adaa46df",
+  "built_at": "2026-11-17T10:42:22.763Z"
 }
