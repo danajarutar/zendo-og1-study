@@ -1,10 +1,10 @@
 {
-  "release": "og1-main-study-2026-11-17",
-  "kind": "main-study",
+  "release": "og1-consistent-final-rule-options-2026-11-17",
+  "kind": "main",
   "experiment": "zendo-og1-1.8.0",
   "schema": "2.10.0",
   "ruleset": "2026-11-12-og1-green-count",
-  "component_sha256": "7157af14859134d3601b67a253f1d69f5f4c3e3dbc624940924d6d97adaa46df",
+  "component_sha256": "812a6b4358e69fc6c5195fde70267e203ae621c8d48477b69b23e082704677d3",
   "collector": "https://zendo-og1-collector.rutar-danaja.workers.dev",
-  "built_at": "2026-11-17T10:51:27.553Z"
+  "built_at": "2026-11-17T13:59:43.955Z"
 }
